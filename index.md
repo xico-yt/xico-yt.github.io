@@ -23,4 +23,3 @@ My github Page is http://github.com/xico-yt
 * Lab 7:
 
     The lab 7 parking signs was my favorite lab to code with my partner because me and my partner had known what to do, took the equal turns coding and struggled a bit but were able to overcome the challenges. It was fun to code the if statements or the if-else statements because of the dates and times for the parking zones. At one point we had a TA walk around and he saw our code, pointed it out how it was good then helped us as we were struggling with putting the functions to days, which was confusing as they had days in the function, making it very confusing. But the TA helped us and it was a very fun part of getting help but also getting acknowledged for having good code at the same time.
-
